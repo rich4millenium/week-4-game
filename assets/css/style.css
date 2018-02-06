@@ -1,0 +1,63 @@
+/* setting up basic styling css files */
+
+.jewels div{
+    min-height: 100px;
+    min-width: 100px;
+    background: white;
+    margin-left:10px;
+}
+.col-12{
+    background: #425d61
+    width: 100%;
+    float: left;
+    padding: 10px;
+}
+.col-3{
+    width: 24%;
+    float: left;
+    padding: 10px;
+}
+.col-4{
+    width: 32%;
+    float: left;
+    padding: 10px;
+}
+.col-6{
+    width: 48%;
+    float: left;
+    padding: 10px;
+}
+.col-8{
+    width: 56%;
+    float: left;
+    padding: 10px;
+}
+.row{
+    width: 100%;
+    overflow: hidden;
+    padding: 10px;
+}
+.instruction{
+    color: green;
+    font-weight: bold;
+    font-size: 18px;
+    background: #f5d6ba;
+}
+.instruction ul li{
+    margin-top: 10px;
+}
+.title{
+    background: #a53f01;
+    color: white;
+    font-size: 26px;
+}
+.random{
+    background: green;
+}
+.winloss{
+    background: #00e2e0,
+}
+.score{
+    color: white;
+    background: #016b6b;
+}
